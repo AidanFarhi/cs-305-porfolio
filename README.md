@@ -2,6 +2,8 @@
 
 - Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
+Artemis Financial is a consulting company that creates financial plans for its clients. These plans include savings, retirement, investments, and insurance. The task that was presented by Artemis Financial was to develop secure communication mechanisms in order to meet security requirements. They wanted a data verification step involving a checksum after data was transferred. A production-quality application implementing secure coding protocols was the expected deliverable.
+
 - What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 
 - Which part of the vulnerability assessment was challenging or helpful to you?
